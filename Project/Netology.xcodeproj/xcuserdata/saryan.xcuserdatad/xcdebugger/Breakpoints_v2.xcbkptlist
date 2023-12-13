@@ -1,0 +1,640 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "2061066F-B7B8-40A6-8ACF-BCCBB4CF991C"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0682A761-E1DA-41A8-AC1C-084FD74B8C0B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NetologyUITests/NetologyUITests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "NetologyUITests"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "0682A761-E1DA-41A8-AC1C-084FD74B8C0B - 83d4279d3257e247"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NetologyUITests.NetologyUITests.__allocating_init(invocation: Swift.Optional&lt;__C.NSInvocation&gt;) -&gt; NetologyUITests.NetologyUITests"
+                  moduleName = "NetologyUITests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/saryan/Desktop/autotestAndroidStudio/mqa-homeworks/2.3%20XCUITest/Project/NetologyUITests/NetologyUITests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "23">
+               </Location>
+               <Location
+                  uuid = "0682A761-E1DA-41A8-AC1C-084FD74B8C0B - b9df19b2f3fd4d51"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NetologyUITests.NetologyUITests.init(invocation: Swift.Optional&lt;__C.NSInvocation&gt;) -&gt; NetologyUITests.NetologyUITests"
+                  moduleName = "NetologyUITests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/saryan/Desktop/autotestAndroidStudio/mqa-homeworks/2.3%20XCUITest/Project/NetologyUITests/NetologyUITests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "113">
+               </Location>
+               <Location
+                  uuid = "0682A761-E1DA-41A8-AC1C-084FD74B8C0B - 5f5c87c147046d16"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NetologyUITests.NetologyUITests.__allocating_init(selector: ObjectiveC.Selector) -&gt; NetologyUITests.NetologyUITests"
+                  moduleName = "NetologyUITests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/saryan/Desktop/autotestAndroidStudio/mqa-homeworks/2.3%20XCUITest/Project/NetologyUITests/NetologyUITests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "23">
+               </Location>
+               <Location
+                  uuid = "0682A761-E1DA-41A8-AC1C-084FD74B8C0B - 6bc0543b4031e9b1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NetologyUITests.NetologyUITests.init(selector: ObjectiveC.Selector) -&gt; NetologyUITests.NetologyUITests"
+                  moduleName = "NetologyUITests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/saryan/Desktop/autotestAndroidStudio/mqa-homeworks/2.3%20XCUITest/Project/NetologyUITests/NetologyUITests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "109">
+               </Location>
+               <Location
+                  uuid = "0682A761-E1DA-41A8-AC1C-084FD74B8C0B - d623ccad278bf1d8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NetologyUITests.NetologyUITests.__allocating_init() -&gt; NetologyUITests.NetologyUITests"
+                  moduleName = "NetologyUITests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/saryan/Desktop/autotestAndroidStudio/mqa-homeworks/2.3%20XCUITest/Project/NetologyUITests/NetologyUITests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "7">
+               </Location>
+               <Location
+                  uuid = "0682A761-E1DA-41A8-AC1C-084FD74B8C0B - 5dd0dc86023f521f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NetologyUITests.NetologyUITests.init() -&gt; NetologyUITests.NetologyUITests"
+                  moduleName = "NetologyUITests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/saryan/Desktop/autotestAndroidStudio/mqa-homeworks/2.3%20XCUITest/Project/NetologyUITests/NetologyUITests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "89">
+               </Location>
+               <Location
+                  uuid = "0682A761-E1DA-41A8-AC1C-084FD74B8C0B - e6ed2fea25b34d1d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NetologyUITests.NetologyUITests.__deallocating_deinit"
+                  moduleName = "NetologyUITests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/saryan/Desktop/autotestAndroidStudio/mqa-homeworks/2.3%20XCUITest/Project/NetologyUITests/NetologyUITests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "0682A761-E1DA-41A8-AC1C-084FD74B8C0B - ecc3fadd181d383f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NetologyUITests.NetologyUITests2.__allocating_init(invocation: Swift.Optional&lt;__C.NSInvocation&gt;) -&gt; NetologyUITests.NetologyUITests2"
+                  moduleName = "NetologyUITests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/saryan/Desktop/autotestAndroidStudio/mqa-homeworks/2.3%20XCUITest/Project/NetologyUITests/NetologyUITests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "23">
+               </Location>
+               <Location
+                  uuid = "0682A761-E1DA-41A8-AC1C-084FD74B8C0B - ee30d67418a15b49"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NetologyUITests.NetologyUITests2.init(invocation: Swift.Optional&lt;__C.NSInvocation&gt;) -&gt; NetologyUITests.NetologyUITests2"
+                  moduleName = "NetologyUITests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/saryan/Desktop/autotestAndroidStudio/mqa-homeworks/2.3%20XCUITest/Project/NetologyUITests/NetologyUITests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "113">
+               </Location>
+               <Location
+                  uuid = "0682A761-E1DA-41A8-AC1C-084FD74B8C0B - 173d5d9913a07b3e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NetologyUITests.NetologyUITests2.__allocating_init(selector: ObjectiveC.Selector) -&gt; NetologyUITests.NetologyUITests2"
+                  moduleName = "NetologyUITests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/saryan/Desktop/autotestAndroidStudio/mqa-homeworks/2.3%20XCUITest/Project/NetologyUITests/NetologyUITests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "23">
+               </Location>
+               <Location
+                  uuid = "0682A761-E1DA-41A8-AC1C-084FD74B8C0B - c1cb2179d15b4269"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NetologyUITests.NetologyUITests2.init(selector: ObjectiveC.Selector) -&gt; NetologyUITests.NetologyUITests2"
+                  moduleName = "NetologyUITests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/saryan/Desktop/autotestAndroidStudio/mqa-homeworks/2.3%20XCUITest/Project/NetologyUITests/NetologyUITests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "109">
+               </Location>
+               <Location
+                  uuid = "0682A761-E1DA-41A8-AC1C-084FD74B8C0B - 7685be8a6baef532"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NetologyUITests.NetologyUITests2.__allocating_init() -&gt; NetologyUITests.NetologyUITests2"
+                  moduleName = "NetologyUITests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/saryan/Desktop/autotestAndroidStudio/mqa-homeworks/2.3%20XCUITest/Project/NetologyUITests/NetologyUITests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "7">
+               </Location>
+               <Location
+                  uuid = "0682A761-E1DA-41A8-AC1C-084FD74B8C0B - dc2994792900ce65"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NetologyUITests.NetologyUITests2.init() -&gt; NetologyUITests.NetologyUITests2"
+                  moduleName = "NetologyUITests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/saryan/Desktop/autotestAndroidStudio/mqa-homeworks/2.3%20XCUITest/Project/NetologyUITests/NetologyUITests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "89">
+               </Location>
+               <Location
+                  uuid = "0682A761-E1DA-41A8-AC1C-084FD74B8C0B - f3f8f5d585147442"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NetologyUITests.NetologyUITests2.__deallocating_deinit"
+                  moduleName = "NetologyUITests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/saryan/Desktop/autotestAndroidStudio/mqa-homeworks/2.3%20XCUITest/Project/NetologyUITests/NetologyUITests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "0682A761-E1DA-41A8-AC1C-084FD74B8C0B - 8804b07d552787e0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NetologyUITests.NetologyUITests.__allocating_init(invocation: Swift.Optional&lt;__C.NSInvocation&gt;) -&gt; NetologyUITests.NetologyUITests"
+                  moduleName = "NetologyUITests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/saryan/Desktop/2.3%20XCUITest/Project/NetologyUITests/NetologyUITests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "23">
+               </Location>
+               <Location
+                  uuid = "0682A761-E1DA-41A8-AC1C-084FD74B8C0B - b20f8e52948d2bbe"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NetologyUITests.NetologyUITests.init(invocation: Swift.Optional&lt;__C.NSInvocation&gt;) -&gt; NetologyUITests.NetologyUITests"
+                  moduleName = "NetologyUITests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/saryan/Desktop/2.3%20XCUITest/Project/NetologyUITests/NetologyUITests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "113">
+               </Location>
+               <Location
+                  uuid = "0682A761-E1DA-41A8-AC1C-084FD74B8C0B - 548c1021207408b1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NetologyUITests.NetologyUITests.__allocating_init(selector: ObjectiveC.Selector) -&gt; NetologyUITests.NetologyUITests"
+                  moduleName = "NetologyUITests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/saryan/Desktop/2.3%20XCUITest/Project/NetologyUITests/NetologyUITests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "23">
+               </Location>
+               <Location
+                  uuid = "0682A761-E1DA-41A8-AC1C-084FD74B8C0B - 6010c3db27418f5e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NetologyUITests.NetologyUITests.init(selector: ObjectiveC.Selector) -&gt; NetologyUITests.NetologyUITests"
+                  moduleName = "NetologyUITests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/saryan/Desktop/2.3%20XCUITest/Project/NetologyUITests/NetologyUITests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "109">
+               </Location>
+               <Location
+                  uuid = "0682A761-E1DA-41A8-AC1C-084FD74B8C0B - ddf35b4d40fb947f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NetologyUITests.NetologyUITests.__allocating_init() -&gt; NetologyUITests.NetologyUITests"
+                  moduleName = "NetologyUITests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/saryan/Desktop/2.3%20XCUITest/Project/NetologyUITests/NetologyUITests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "7">
+               </Location>
+               <Location
+                  uuid = "0682A761-E1DA-41A8-AC1C-084FD74B8C0B - 56004b66654f34f0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NetologyUITests.NetologyUITests.init() -&gt; NetologyUITests.NetologyUITests"
+                  moduleName = "NetologyUITests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/saryan/Desktop/2.3%20XCUITest/Project/NetologyUITests/NetologyUITests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "89">
+               </Location>
+               <Location
+                  uuid = "0682A761-E1DA-41A8-AC1C-084FD74B8C0B - ed3db80a42c328ba"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NetologyUITests.NetologyUITests.__deallocating_deinit"
+                  moduleName = "NetologyUITests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/saryan/Desktop/2.3%20XCUITest/Project/NetologyUITests/NetologyUITests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5E7AD27C-5573-401F-B72C-3C715BFDA17C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NetologyUITests/NetologyUITests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  uuid = "5E7AD27C-5573-401F-B72C-3C715BFDA17C - 83d4279d3257e247"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NetologyUITests.NetologyUITests.__allocating_init(invocation: Swift.Optional&lt;__C.NSInvocation&gt;) -&gt; NetologyUITests.NetologyUITests"
+                  moduleName = "NetologyUITests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/saryan/Desktop/autotestAndroidStudio/mqa-homeworks/2.3%20XCUITest/Project/NetologyUITests/NetologyUITests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "23">
+               </Location>
+               <Location
+                  uuid = "5E7AD27C-5573-401F-B72C-3C715BFDA17C - b9df19b2f3fd4d51"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NetologyUITests.NetologyUITests.init(invocation: Swift.Optional&lt;__C.NSInvocation&gt;) -&gt; NetologyUITests.NetologyUITests"
+                  moduleName = "NetologyUITests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/saryan/Desktop/autotestAndroidStudio/mqa-homeworks/2.3%20XCUITest/Project/NetologyUITests/NetologyUITests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "113">
+               </Location>
+               <Location
+                  uuid = "5E7AD27C-5573-401F-B72C-3C715BFDA17C - 5f5c87c147046d16"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NetologyUITests.NetologyUITests.__allocating_init(selector: ObjectiveC.Selector) -&gt; NetologyUITests.NetologyUITests"
+                  moduleName = "NetologyUITests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/saryan/Desktop/autotestAndroidStudio/mqa-homeworks/2.3%20XCUITest/Project/NetologyUITests/NetologyUITests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "23">
+               </Location>
+               <Location
+                  uuid = "5E7AD27C-5573-401F-B72C-3C715BFDA17C - 6bc0543b4031e9b1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NetologyUITests.NetologyUITests.init(selector: ObjectiveC.Selector) -&gt; NetologyUITests.NetologyUITests"
+                  moduleName = "NetologyUITests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/saryan/Desktop/autotestAndroidStudio/mqa-homeworks/2.3%20XCUITest/Project/NetologyUITests/NetologyUITests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "109">
+               </Location>
+               <Location
+                  uuid = "5E7AD27C-5573-401F-B72C-3C715BFDA17C - d623ccad278bf1d8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NetologyUITests.NetologyUITests.__allocating_init() -&gt; NetologyUITests.NetologyUITests"
+                  moduleName = "NetologyUITests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/saryan/Desktop/autotestAndroidStudio/mqa-homeworks/2.3%20XCUITest/Project/NetologyUITests/NetologyUITests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "7">
+               </Location>
+               <Location
+                  uuid = "5E7AD27C-5573-401F-B72C-3C715BFDA17C - 5dd0dc86023f521f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NetologyUITests.NetologyUITests.init() -&gt; NetologyUITests.NetologyUITests"
+                  moduleName = "NetologyUITests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/saryan/Desktop/autotestAndroidStudio/mqa-homeworks/2.3%20XCUITest/Project/NetologyUITests/NetologyUITests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "89">
+               </Location>
+               <Location
+                  uuid = "5E7AD27C-5573-401F-B72C-3C715BFDA17C - e6ed2fea25b34d1d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NetologyUITests.NetologyUITests.__deallocating_deinit"
+                  moduleName = "NetologyUITests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/saryan/Desktop/autotestAndroidStudio/mqa-homeworks/2.3%20XCUITest/Project/NetologyUITests/NetologyUITests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8D837F95-5362-499F-BB87-FA55CF30CA50"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NetologyUITests/NetologyUITests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "11"
+            endingLineNumber = "11"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  uuid = "8D837F95-5362-499F-BB87-FA55CF30CA50 - 8e007fbdbffb6c15"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "one-time initialization function for passwords"
+                  moduleName = "NetologyUITests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/saryan/Desktop/autotestAndroidStudio/mqa-homeworks/2.3%20XCUITest/Project/NetologyUITests/NetologyUITests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "9"
+                  endingLineNumber = "9"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  uuid = "8D837F95-5362-499F-BB87-FA55CF30CA50 - b3bb3907c1fa7af0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NetologyUITests.passwords.unsafeMutableAddressor : Swift.String"
+                  moduleName = "NetologyUITests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/saryan/Desktop/autotestAndroidStudio/mqa-homeworks/2.3%20XCUITest/Project/NetologyUITests/NetologyUITests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "9"
+                  endingLineNumber = "9"
+                  offsetFromSymbolStart = "4">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BDAE7C07-1EEF-4373-9B57-6D944BC2E974"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NetologyUITests/NetologyUITests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "testLogin()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "BDAE7C07-1EEF-4373-9B57-6D944BC2E974 - a9df95c091001d7d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NetologyUITests.NetologyUITests.testLogin() throws -&gt; ()"
+                  moduleName = "NetologyUITests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/saryan/Desktop/autotestAndroidStudio/mqa-homeworks/2.3%20XCUITest/Project/NetologyUITests/NetologyUITests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "175">
+               </Location>
+               <Location
+                  uuid = "BDAE7C07-1EEF-4373-9B57-6D944BC2E974 - ac7398746de69880"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NetologyUITests.NetologyUITests2.testLogin() throws -&gt; ()"
+                  moduleName = "NetologyUITests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/saryan/Desktop/autotestAndroidStudio/mqa-homeworks/2.3%20XCUITest/Project/NetologyUITests/NetologyUITests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "175">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "68F27F22-F770-4DE1-8FC7-00682F013F5D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NetologyUITests/NetologyUITests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "testLogin()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "68F27F22-F770-4DE1-8FC7-00682F013F5D - a9df95c091001d7d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NetologyUITests.NetologyUITests.testLogin() throws -&gt; ()"
+                  moduleName = "NetologyUITests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/saryan/Desktop/autotestAndroidStudio/mqa-homeworks/2.3%20XCUITest/Project/NetologyUITests/NetologyUITests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "175">
+               </Location>
+               <Location
+                  uuid = "68F27F22-F770-4DE1-8FC7-00682F013F5D - ac7398746de69880"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NetologyUITests.NetologyUITests2.testLogin() throws -&gt; ()"
+                  moduleName = "NetologyUITests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/saryan/Desktop/autotestAndroidStudio/mqa-homeworks/2.3%20XCUITest/Project/NetologyUITests/NetologyUITests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "175">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "326C5EA2-B246-4F5D-88B5-26B572BDDA1C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NetologyUITests/NetologyUITests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "10"
+            endingLineNumber = "10"
+            landmarkName = "unknown"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A4549388-B9B1-430E-B39C-D9248FEAAD0B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NetologyUITests/NetologyUITests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "testLogin()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
